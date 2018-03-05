@@ -32,20 +32,20 @@ fanpages_list <- list("Antyweb" = "Antyweb",
 
 # css dla warstwy przykrywającej przy ładowaniu
 appCSS <- "
-#loading-content {
-margin: auto;
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-height: 100%;
-background: #333;
-oppacity: 0.7;
-color: white;
-z-index: 100;
-text-align: center;
-vertical-align: middle;
-padding: 50px;
+  #loading-content {
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #333;
+  oppacity: 0.7;
+  color: white;
+  z-index: 100;
+  text-align: center;
+  vertical-align: middle;
+  padding: 50px;
 }
 "
 
